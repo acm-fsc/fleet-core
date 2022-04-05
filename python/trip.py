@@ -1,4 +1,3 @@
-
 class Trip:
     def __init__(self, pickup, drop_off):
         self._pup = pickup

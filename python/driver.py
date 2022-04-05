@@ -1,4 +1,3 @@
-
 class Driver:
     def __init__(self, location, idle):
         self._loc = location
@@ -14,4 +13,4 @@ class Driver:
         self._loc = location
 
     def set_idle(self, idle):
-        self.idle = idle
+        self._idle = idle

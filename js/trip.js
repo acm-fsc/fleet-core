@@ -1,7 +1,7 @@
 class Trip {
-  constructor(pickup, drop_off) {
+  constructor(pickup, dropoff) {
     this._pup = pickup;
-    this._doff = drop_off;
+    this._doff = dropoff;
   }
 
   getPickup() {

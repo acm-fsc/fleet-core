@@ -17,6 +17,6 @@ class Driver {
   }
 
   setIdle(idle) {
-    this.idle = idle;
+    this._idle = idle;
   }
 }
