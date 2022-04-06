@@ -30,3 +30,5 @@ After you've gotten familiar with this repo, it's time to start developing! Here
 2. Clone your fork locally
 3. Create & push a new branch
 4. Create a Pull Request
+
+For more information on how you can get started on this project, you can view the [Contribution doc](https://github.com/acm-fsc/fleet-core/blob/main/CONTRIBUTING.md)
