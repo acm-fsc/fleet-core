@@ -21,3 +21,12 @@ Dispatch => A unit that assigns a driver to a requested trip
 ### Your Tasks
 
 Each class comes with methods and member variables that have already been written but what you will find is that there are a few methods that you will have to implement. These methods have been commented as '_TODO_' and hold information about what the inputs are and the value it should return. Fleet has high standards for the code that is put into production so make sure the changes you make are non-breaking and well-tested.
+
+### Getting Started
+
+After you've gotten familiar with this repo, it's time to start developing! Here are the steps you need to take to contribute to the project:
+
+1. Fork the repo if you haven't already
+2. Clone your fork locally
+3. Create & push a new branch
+4. Create a Pull Request
