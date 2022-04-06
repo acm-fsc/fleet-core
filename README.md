@@ -32,3 +32,11 @@ After you've gotten familiar with this repo, it's time to start developing! Here
 4. Create a Pull Request
 
 For more information on how you can get started on this project, you can view the [Contribution doc](https://github.com/acm-fsc/fleet-core/blob/main/CONTRIBUTING.md)
+
+### Bonus
+
+Here are some bonus items you can tackle when you are finished with the other tasks:
+
+1. Write a method that returns the ETA of a trip
+2. Refactor the Trip class so that it supports multiple stops
+3. Create a technical doc that highlights some ways that the system can be optimized
